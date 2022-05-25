@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1035231149914",
+    "project_id": "fir-web-app-93a90",
+    "storage_bucket": "fir-web-app-93a90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035231149914:android:cc706df5bcc3f5131a3d63",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035231149914-d64n6990l2aji6ju6p6lqlcqc0ful58j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todo_app",
+            "certificate_hash": "c6bc59b0770594afe80d22c8840728a49cdeeed5"
+          }
+        },
+        {
+          "client_id": "1035231149914-n82ip9pd5d5ifqpp2t68upd9asiph2j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKmzo6FUUG3pk-BwEFoYRxXXAT1G0XnAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035231149914-n82ip9pd5d5ifqpp2t68upd9asiph2j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
